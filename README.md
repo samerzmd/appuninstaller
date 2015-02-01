@@ -13,6 +13,9 @@ The app will contains a lot of features that we are going to expose later, but t
 - Learn to solve some of the new challenges that some of us didn't face it before during his/her work.
 - If the app was succesffuly we might be able to montize it, and we think of sending the money we can get from this app to any charitable organization, and thus we can all be proud of this beatiful experince.
 
+# Feratures 
+TODO
+
 # Links
 - [Android Developers In Jordan](https://plus.google.com/u/0/communities/107039556521786699779)
 - [Project Board at Trello](https://trello.com/b/R92UZGoX/batch-uninstaller)
