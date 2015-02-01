@@ -21,6 +21,7 @@ TODO
 - [Project Board at Trello](https://trello.com/b/R92UZGoX/batch-uninstaller)
 
 # License
+```
 The MIT License (MIT)
 
 Copyright (c) 2015 Android Developers In Jordan
@@ -34,5 +35,6 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+```
 
 
