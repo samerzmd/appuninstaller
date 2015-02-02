@@ -16,6 +16,9 @@ The app will contains a lot of features that we are going to expose later, but t
 # Features 
 TODO
 
+# Contributors
+TBA
+
 # Links
 - [Android Developers In Jordan](https://plus.google.com/u/0/communities/107039556521786699779)
 - [Project Board at Trello](https://trello.com/b/R92UZGoX/batch-uninstaller)
