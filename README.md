@@ -1,4 +1,4 @@
-# Batch Uninstaller
+# App Uninstaller
 A communiy based application, this app will be the chance to learn the best of Android. The project will have a high professional developers to maintain & accept the code while anyone can join and contribute his work into this project.
 
 # Brief 
