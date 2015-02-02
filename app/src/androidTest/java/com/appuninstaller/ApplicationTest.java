@@ -1,4 +1,4 @@
-package com.batchuninstaller;
+package com.appuninstaller;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
