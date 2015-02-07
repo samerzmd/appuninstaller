@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<notices>
+    <notice>
+        <name>ButterKnife</name>
+        <url>http://jakewharton.github.io/butterknife/</url>
+        <copyright>Copyright 2013 Jake Wharton</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>EventBus</name>
+        <url>http://greenrobot.github.io/EventBus/</url>
+        <copyright>Copyright (C) 2012 Markus Junginger, greenrobot</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Timber</name>
+        <url>https://github.com/JakeWharton/timber/</url>
+        <copyright>Copyright 2013 Jake Wharton</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Material Dialogs</name>
+        <url>https://github.com/afollestad/material-dialogs/</url>
+        <copyright>Copyright (c) 2014 Aidan Michael Follestad</copyright>
+        <license>MIT License</license>
+    </notice>
+</notices>

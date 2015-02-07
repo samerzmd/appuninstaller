@@ -9,9 +9,31 @@
 
 # Add any project specific keep options here:
 
-# If your project uses WebView with JS, uncomment the following
-# and specify the fully qualified class name to the JavaScript interface
-# class:
-#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
-#   public *;
-#}
+#
+# Butterknife rules
+#
+-dontwarn butterknife.internal.**
+-keep class **$$ViewInjector { *; }
+-keepnames class * { @butterknife.InjectView *;}
+
+#
+# EventBus rules
+#
+-keepclassmembers class ** {
+    public void onEvent*(**);
+}
+
+#
+# Remove debug, verbose and info logs (from both Android and Timber)
+#
+-assumenosideeffects class android.util.Log {
+    public static *** i(...);
+    public static *** d(...);
+    public static *** v(...);
+}
+
+-assumenosideeffects class timber.log.Timber* {
+    public static *** i(...);
+    public static *** d(...);
+    public static *** v(...);
+}
