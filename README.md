@@ -14,7 +14,11 @@ The app will contains a lot of features that we are going to expose later, but t
 - If the app was succesfful and we were able to montize it, we will be copntributing sales profits to any charitable organization, thus we can all be proud of this beatiful experince.
 
 # Features 
-TODO
+- List all removable apps with the ability to sort them per name, size and installation date.
+- Switch between Grid/List listing.
+- Search for an App.
+- Filter apps per installation source (Google Play, Amazon, etc)
+- Night mode.
 
 # Contributors
 TBA
