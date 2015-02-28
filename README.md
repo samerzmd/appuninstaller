@@ -7,11 +7,12 @@ The idea of the app is that we will provide an app that can uninstall mutiple ap
 The app will contains a lot of features that we are going to expose later, but the most important thing here is that we wanted an app that is somehow simple and at the same time we can untilize mutiple aspects of the Android OS so everybodu will get the chance to learn sometnhing new.
 
 # Project Objectives
-- Social interaction between the Android cummnity memebers and getting to know each other deeply by woring with each other.
+- Social interaction between the Android community members and getting to know each other deeply by working together.
 - Build teamwork skills and let the developers collaborate with each other using some of the great tools like Git, Github and Trello.
 - Apply the best practices in the Android development.
 - Learn to solve some of the new challenges that some of us didn't face it before during his/her work.
-- If the app was succesfful and we were able to montize it, we will be copntributing sales profits to any charitable organization, thus we can all be proud of this beatiful experince.
+- If the app was successful and we were able to monetize it, we will be contributing sales profits to any charitable organization, thus we can all be proud of this beautiful experience.
+
 
 # Features 
 - List all removable apps with the ability to sort them per name, size and installation date.
