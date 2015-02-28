@@ -7,7 +7,7 @@ The idea of the app is that we will provide an app that can uninstall mutiple ap
 The app will contains a lot of features that we are going to expose later, but the most important thing here is that we wanted an app that is somehow simple and at the same time we can untilize mutiple aspects of the Android OS so everybodu will get the chance to learn sometnhing new.
 
 # Project Objectives
-- Social interaction between the Android cummnity memebers and getting to know each other deeply by woring with each other.
+- Social interaction between the Android cummnity memebers and getting to know each other deeply by working with each other.
 - Build teamwork skills and let the developers collaborate with each other using some of the great tools like Git, Github and Trello.
 - Apply the best practices in the Android development.
 - Learn to solve some of the new challenges that some of us didn't face it before during his/her work.
